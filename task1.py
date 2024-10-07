@@ -27,7 +27,6 @@ fulle = timee // 60
 minte = timee % 60
 print('Начало урока', fullb, minb,  sep = ':')
 print('Конец урока', fulle, minte,  sep = ':')
-while n == 5:
-    br = 45
+
 
 
